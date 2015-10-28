@@ -1,0 +1,21 @@
+title: Free Landing Page HTML Template  # Name of the site
+author:
+  name: Peter Finla
+metadata:
+    description: 'Land.io is a carefully crafted landing page UI kit and landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini.'
+
+# Header customization
+header:
+  title: LANDIO<span>DAYS</span>
+  description: An exclusive HTML5/CSS3 freebie by Peter Finlan, for <em>Codrops</em>
+  buttons:
+    - text: "Back to the article"
+      link: "http://tympanus.net/codrops/?p=19439"
+      class: "learn-more-btn"
+
+footer:
+  links:
+    - text: Terms &amp; Conditions
+      url: "#"
+    - text: Legals
+      url: "#"
