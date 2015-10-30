@@ -4,9 +4,14 @@ author:
 metadata:
     description: 'Land.io is a carefully crafted landing page UI kit and landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini.'
 
+# TopBar
+logo:
+  icon: logo
+  text: Land.io
+
 # Header customization
 header:
-  title: LANDIO<span>DAYS</span>
+  title: Land.io
   description: An exclusive HTML5/CSS3 freebie by Peter Finlan, for <em>Codrops</em>
   buttons:
     - text: "Back to the article"
