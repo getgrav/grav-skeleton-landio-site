@@ -11,6 +11,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
         branch: develop
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: develop
     landio:
         url: https://github.com/getgrav/grav-theme-landio
         path: user/themes/landio
@@ -19,6 +23,10 @@ links:
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
+        scm: github
+    admin:
+        src: grav-plugin-admin
+        path: user/plugins/admin
         scm: github
     simplesearch:
         src: grav-plugin-simplesearch
