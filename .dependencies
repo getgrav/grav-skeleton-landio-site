@@ -6,7 +6,11 @@ git:
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop  
+        branch: develop
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: develop
     landio:
         url: https://github.com/getgrav/grav-theme-landio
         path: user/themes/landio
@@ -15,6 +19,10 @@ links:
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
+        scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
         scm: github
     error:
         src: grav-plugin-error
