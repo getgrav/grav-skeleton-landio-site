@@ -18,13 +18,14 @@ userlinks:
 
 # Header customization
 header:
-  title: Land.io
-  description: An exclusive HTML5/CSS3 freebie by Peter Finlan, for <em>Codrops</em>
+  title: Land.io, blissful innovation.
+  description: Craft your journey, <em>absolutely free</em>, with <a href="ui-elements.html" class="jumbolink">Land.io UI kit</a>.
   buttons:
-    - text: "Back to the article"
-      link: "http://tympanus.net/codrops/?p=19439"
-      class: "learn-more-btn"
+    - text: "Some Button"
+      url: "http://tympanus.net/codrops/?p=19439"
+      icon: "sketch"
 
+# Header customization
 footer:
   links:
     - text: Terms &amp; Conditions

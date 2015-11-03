@@ -8,7 +8,6 @@ form:
   action:
   method: post
 
-
   fields:
       - name: username
         id: username
