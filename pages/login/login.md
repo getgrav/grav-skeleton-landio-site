@@ -8,6 +8,7 @@ form:
   action:
   method: post
 
+
   fields:
       - name: username
         id: username
@@ -20,5 +21,5 @@ form:
         id: password
         type: password
         placeholder: Password  
-        classes: form-control form-control-lg
+        classes: form-control form-control-lg        
 ---

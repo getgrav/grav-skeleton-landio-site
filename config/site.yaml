@@ -9,6 +9,13 @@ logo:
   icon: logo
   text: Land.io
 
+# User Panel
+userlinks:
+    - text: Sample link
+      url: "#"
+    - text: Another Sample link
+      url: "#"
+
 # Header customization
 header:
   title: Land.io
