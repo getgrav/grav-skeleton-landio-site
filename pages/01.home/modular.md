@@ -10,6 +10,7 @@ content:
         custom:
             - _intro
             - _features
+            - _video
             - _services
             - _swag
             - _portfolio

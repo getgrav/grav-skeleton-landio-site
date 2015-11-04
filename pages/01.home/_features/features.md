@@ -1,23 +1,16 @@
 ---
 title: Features
 features:
-  - title: "Digital Design"
-    icon: laptop shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
-    link: ""
-    text: ""  
-  - title: "Web Development"
-    icon: code shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
-    link: ""
-    text: ""
-    delay: "05"   
-  - title: "Creative Direction"
-    icon: heart shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
-    link: ""
-    text: ""
-    delay: "1"     
+  - title: 250
+    icon: pen
+    subtitle: UI Elements
+    text: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras eu adipiscing ac cras at sem cras per senectus eu parturient quam.
+  - title: Ultra
+    icon: thunderbolt
+    subtitle: Modern design
+    text: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras eu adipiscing ac cras at sem cras per senectus eu parturient quam.
+  - title: Free
+    icon: heart
+    subtitle: Forever and ever
+    text: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras eu adipiscing ac cras at sem cras per senectus eu parturient quam.
 ---
-
-# Love what you do, and you'll do it well {.arrow}
