@@ -32,3 +32,10 @@ footer:
       url: "#"
     - text: Legals
       url: "#"
+
+#Social Count
+socialcount:
+    url: http://www.getgrav.org
+    facebook_url: "#"
+    twitter_url: "http://www.twitter.com/getgrav"
+    linkedin_url: "#"
