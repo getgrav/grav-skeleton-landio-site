@@ -13,8 +13,5 @@ content:
             - _video
             - _pricing
             - _testimonials
-            - _ignite
-            - _team
-            - _subscribe
-            - _contact
+            - _text
 ---
