@@ -11,8 +11,7 @@ content:
             - _intro
             - _features
             - _video
-            - _services
-            - _swag
+            - _pricing
             - _portfolio
             - _ignite
             - _team
