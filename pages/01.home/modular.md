@@ -12,7 +12,7 @@ content:
             - _features
             - _video
             - _pricing
-            - _portfolio
+            - _testimonials
             - _ignite
             - _team
             - _subscribe
