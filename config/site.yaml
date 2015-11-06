@@ -8,6 +8,7 @@ metadata:
 logo:
   icon: logo
   text: Land.io
+  url: 
 
 # User Panel
 userlinks:
@@ -39,3 +40,6 @@ socialcount:
     facebook_url: "#"
     twitter_url: "http://www.twitter.com/getgrav"
     linkedin_url: "#"
+
+#Copyright
+copyright: Land.io 2015. <br> Designed by Peter Finlan, developed by Taty Grassini, exclusively for Codrops.

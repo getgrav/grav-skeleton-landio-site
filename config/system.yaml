@@ -7,7 +7,7 @@ pages:
     markdown: true
     twig: false
   markdown:
-    extra: true  
+    extra: true
 
 cache:
   enabled: false
