@@ -1,7 +1,7 @@
 ---
 title: User Login
 slug: user-login
-
+navbar_class: navbar-dark bg-inverse
 
 form:
   name: login
