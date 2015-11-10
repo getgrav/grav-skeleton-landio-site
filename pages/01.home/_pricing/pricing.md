@@ -1,5 +1,5 @@
 ---
-hidemenu: true
+title: Subscriptions
 pricing:
   - title: Personal
     description: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.

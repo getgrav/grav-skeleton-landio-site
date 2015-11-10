@@ -1,4 +1,5 @@
 ---
+hidemenu: true
 title: Videos
 videos:
   - poster: video-poster.jpg
