@@ -1,0 +1,45 @@
+title: Free Landing Page HTML Template  # Name of the site
+author:
+  name: Peter Finla
+metadata:
+    description: 'Land.io is a carefully crafted landing page UI kit and landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini.'
+
+# TopBar
+logo:
+  icon: logo
+  text: Land.io
+  url:
+
+# User Panel
+userlinks:
+    - text: Sample link
+      url: "#"
+    - text: Another Sample link
+      url: "#"
+
+# Header customization
+header:
+  title: Land.io, blissful innovation.
+  description: Craft your journey, <em>absolutely free</em>, with <a href="#" class="jumbolink">Admin plugin support.</a>.
+  buttons:
+    - text: "Some Button"
+      url: "http://tympanus.net/codrops/?p=19439"
+      icon: "sketch"
+
+# Footer customization
+footer:
+  links:
+    - text: Terms &amp; Conditions
+      url: "#"
+    - text: Legals
+      url: "#"
+
+#Social Count
+socialcount:
+    url: http://www.getgrav.org
+    facebook_url: "#"
+    twitter_url: "http://www.twitter.com/getgrav"
+    linkedin_url: "#"
+
+#Copyright
+copyright: Land.io 2015. <br> Designed by Peter Finlan, developed by Taty Grassini, exclusively for Codrops.
