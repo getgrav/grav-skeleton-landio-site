@@ -1,4 +1,3 @@
-enabled: true
 from: your@email.here
 to: your@email.here
 mailer:
