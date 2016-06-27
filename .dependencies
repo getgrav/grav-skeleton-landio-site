@@ -11,10 +11,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
         branch: develop
-    admin:
-        url: https://github.com/getgrav/grav-plugin-admin
-        path: user/plugins/admin
-        branch: develop
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -35,10 +31,6 @@ links:
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
-        scm: github
-    admin:
-        src: grav-plugin-admin
-        path: user/plugins/admin
         scm: github
     email:
         src: grav-plugin-email
