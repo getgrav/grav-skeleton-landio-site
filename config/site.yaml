@@ -23,7 +23,7 @@ header:
   description: Craft your journey, <em>absolutely free</em>, with <a href="#" class="jumbolink">Admin plugin support.</a>.
   buttons:
     - text: "Some Button"
-      url: "http://tympanus.net/codrops/?p=19439"
+      url: "https://tympanus.net/codrops/?p=19439"
       icon: "sketch"
 
 # Footer customization
@@ -36,9 +36,9 @@ footer:
 
 #Social Count
 socialcount:
-    url: http://www.getgrav.org
+    url: https://www.getgrav.org
     facebook_url: "#"
-    twitter_url: "http://www.twitter.com/getgrav"
+    twitter_url: "https://www.twitter.com/getgrav"
     linkedin_url: "#"
 
 #Copyright
