@@ -1,13 +1,13 @@
 name: Landio Site
-version: 1.0.0
-description: "Land.io is a carefully crafted landing page UI kit and landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini."
+version: 1.0.2
+description: "Land.io is a carefully crafted landing page template built on Bootstrap 4, designed by Peter Finlan and developed by Taty Grassini."
 icon: group
 author:
   name: Team Grav
   email: devs@getgrav.org
-  url: http://getgrav.org
+  url: https//getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-landio-site
-demo: http://demo.getgrav.org/landio-skeleton
+demo: https://demo.getgrav.org/landio-skeleton
 keywords: landio, skeleton, scroll, page, modular
 bugs: https://github.com/getgrav/grav-skeleton-landio-site/issues
 license: Free
